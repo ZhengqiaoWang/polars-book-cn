@@ -1,0 +1,12 @@
+shape: (5, 4)
+┌───────┬─────────────────────┬───────────────────────┬─────────────────────────┐
+│ state ┆ youngest            ┆ oldest                ┆ alphabetical_first      │
+│ ---   ┆ ---                 ┆ ---                   ┆ ---                     │
+│ cat   ┆ str                 ┆ str                   ┆ str                     │
+╞═══════╪═════════════════════╪═══════════════════════╪═════════════════════════╡
+│ PA    ┆ Conor Lamb          ┆ Thomas Fitzsimons     ┆ Aaron Kreider           │
+│ PI    ┆ Carlos Romulo       ┆ Pablo Ocampo          ┆ Benito Legarda Y Tuason │
+│ GU    ┆ Michael San Nicolas ┆ Antonio Won Pat       ┆ Antonio Won Pat         │
+│ TX    ┆ Mayra Flores        ┆ John Cranford         ┆ Abraham Kazen           │
+│ NY    ┆ Mondaire Jones      ┆ Cornelius Schoonmaker ┆ A. Foster               │
+└───────┴─────────────────────┴───────────────────────┴─────────────────────────┘

@@ -1,0 +1,12 @@
+shape: (5, 3)
+┌───────┬───────────────────────┬────────────────────┐
+│ state ┆ youngest              ┆ oldest             │
+│ ---   ┆ ---                   ┆ ---                │
+│ cat   ┆ str                   ┆ str                │
+╞═══════╪═══════════════════════╪════════════════════╡
+│ OK    ┆ Kendra Horn           ┆ David Harvey       │
+│ OR    ┆ Greg Walden           ┆ George Shiel       │
+│ WA    ┆ Jaime Herrera Beutler ┆ Columbia Lancaster │
+│ WY    ┆ Liz Cheney            ┆ Stephen Nuckolls   │
+│ PR    ┆ Aníbal Acevedo-Vilá   ┆ Tulio Larrinaga    │
+└───────┴───────────────────────┴────────────────────┘
